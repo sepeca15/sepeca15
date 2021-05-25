@@ -1,5 +1,5 @@
 ## Hola!
-Mi nombre es Sebasitan Perez
+Mi nombre es Sebasitan Perez <br/>
 Actualmente estoy haciendo el bootcamp de desarrollo FullStack en 4Geeks Academy.
 
 <br/>
