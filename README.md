@@ -1,6 +1,6 @@
 ## Hola!
 Mi nombre es Sebasitan Perez <br/>
-Actualmente estoy haciendo el bootcamp de desarrollo FullStack en 4Geeks Academy.
+Desarrollo FullStack en Dualboot Partners.
 
 <br/>
 
